@@ -1,1 +1,1 @@
-# HKU-COMP7308-2021
+# COMP7308 Introduction to unmanned systems
