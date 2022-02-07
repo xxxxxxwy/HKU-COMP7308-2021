@@ -1,1 +1,1 @@
-# COMP7308 Introduction to unmanned systems
+COMP7308 Introduction to unmanned systems
